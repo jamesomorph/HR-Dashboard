@@ -125,37 +125,37 @@ This project contains an HR dataset and supporting analytics designed to explore
   - Created calculated fields such as:
   - Age Range
   - Derived metrics (e.g., tenure if needed)
-- 3. 🏗️ Data Structuring
-- Organized data into separate sheets:
-- Data → Raw employee dataset
-- PivotTables → Aggregated summaries
-- Dashboard → Reserved for visual reporting
-- 4. 📊 Data Analysis
-- Built pivot tables to analyze:
-- Employee distribution (department, region)
-- Salary trends
-- Performance ratings
-- Leave usage
-- Skills and training data
-- 5. 📌 KPI Definition
-- Identified key HR metrics such as:
-- Total Employees
-- Average Salary
-- Performance Ratings
-- Training Participation
-- Leave Usage
-- 6. 📈 Visualization & Reporting
-- Designed charts and dashboards to present insights:
-- Bar charts (department distribution)
-- Pie charts (gender ratio)
-- Column charts (salary comparison)
-- Heatmaps (performance by department)
-- 7. 🧠 Insight Generation
-- Interpreted data to identify:
-- Workforce trends
-- Compensation patterns
-- Performance distribution
-- Potential HR issues (e.g., high leave usage)
+ 3. 🏗️ Data Structuring
+  - Organized data into separate sheets:
+  - Data → Raw employee dataset
+  - PivotTables → Aggregated summaries
+  - Dashboard → Reserved for visual reporting
+ 4. 📊 Data Analysis
+  - Built pivot tables to analyze:
+  - Employee distribution (department, region)
+  - Salary trends
+  - Performance ratings
+  - Leave usage
+  - Skills and training data
+ 5. 📌 KPI Definition
+  - Identified key HR metrics such as:
+  - Total Employees
+  - Average Salary
+  - Performance Ratings
+  - Training Participation
+  - Leave Usage
+ 6. 📈 Visualization & Reporting
+  - Designed charts and dashboards to present insights:
+  - Bar charts (department distribution)
+  - Pie charts (gender ratio)
+  - Column charts (salary comparison)
+  - Heatmaps (performance by department)
+ 7. 🧠 Insight Generation
+  - Interpreted data to identify:
+  - Workforce trends
+  - Compensation patterns
+  - Performance distribution
+  - Potential HR issues (e.g., high leave usage)
 
 # 🧾 Conclusion
 This project demonstrates how structured HR data can be transformed into meaningful insights through analysis, KPIs, and visualization. By organizing employee information and applying analytical techniques, the dataset reveals patterns in workforce distribution, compensation, performance, and employee behavior.
