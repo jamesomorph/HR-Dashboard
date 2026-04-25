@@ -108,6 +108,10 @@ This project contains an HR dataset and supporting analytics designed to explore
 - ✐ New Hire Rate
 - ✐ % of employees hired within a specific period.
 
+  # 📊DASHBOARD
+  
+  https://github.com/jamesomorph/HR-Dashboard/blob/main/Dashboard.png
+
 
 
 
