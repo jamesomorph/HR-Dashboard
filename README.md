@@ -10,7 +10,44 @@
 
 This project contains an HR dataset and supporting analytics designed to explore employee demographics, compensation, performance, and organizational structure. It is intended for data analysis, reporting, and dashboard creation using spreadsheet tools.
 
+## ❓ KPI-Driven Business Questions
+### 👥 Workforce Insights
+- ☑︎How many employees are currently active?
+- ☑︎Which department has the highest headcount?
+- ☑︎Which region has the largest workforce?
+- ☑︎Is the workforce balanced in terms of gender?
+### 💰 Compensation Analysis
+- ☑︎What is the average salary across the company?
+- ☑︎Which department offers the highest and lowest average salaries?
+- ☑︎Are there inconsistencies in salary within the same pay grade?
+- ☑︎Is there a potential gender pay gap?
+### 📈 Performance Evaluation
+- ☑︎What is the overall average performance rating?
+- ☑︎Which departments have the highest-performing employees?
+- ☑︎What percentage of employees are top performers?
+- ☑︎Are there departments with a high number of low performers?
+### 🧠 Training & Skills
+- ☑︎How many employees have attended training programs?
+- ☑︎Which skills are most common across the workforce?
+- ☑︎Are there critical skills that are underrepresented?
+- ☑︎Do trained employees perform better than untrained ones?
+### 🏖️ Leave & Workload
+- ☑︎What is the average leave taken per employee?
+- ☑︎Which departments have the highest leave usage?
+- ☑︎Are there employees exceeding normal leave thresholds?
+- ☑︎Could high leave usage indicate burnout in certain teams?
+### 🏢 Organizational Structure
+- ☑︎What is the average number of employees per manager?
+- ☑︎Are some managers handling disproportionately large teams?
+- ☑︎Which departments are overstaffed or understaffed?
+### 🔄 Employment Trends
+- ☑︎What percentage of employees are newly hired?
+- ☑︎Is there a noticeable hiring trend in certain departments?
+- ☑︎(If available) What is the attrition rate?
+
+
 ## 📌 Key Performance Indicators (KPIs)
+
 ### ☞  👥 Workforce Metrics
 - ✐ Total Employees
 - ✐ Total number of active employees in the organization.
