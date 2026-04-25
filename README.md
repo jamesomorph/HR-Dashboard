@@ -11,17 +11,17 @@
 This project contains an HR dataset and supporting analytics designed to explore employee demographics, compensation, performance, and organizational structure. It is intended for data analysis, reporting, and dashboard creation using spreadsheet tools.
 
 ## 📌 Key Performance Indicators (KPIs)
- ☞  👥 Workforce Metrics
-✐ Total Employees
-✐ Total number of active employees in the organization.
-✐ Headcount by Department
-✐ Number of employees per department.
-✐ Headcount by Region
-✐ Distribution of employees across regions.
-✐ Gender Ratio
-✐ Percentage of male vs female employees.
-✐ Average Age
-✐ Mean age of employees.
+- ☞  👥 Workforce Metrics
+-✐ Total Employees
+-✐ Total number of active employees in the organization.
+-✐ Headcount by Department
+-✐ Number of employees per department.
+-✐ Headcount by Region
+-✐ Distribution of employees across regions.
+-✐ Gender Ratio
+-✐ Percentage of male vs female employees.
+-✐ Average Age
+-✐ Mean age of employees.
  ☞  💰 Compensation Metrics
 ✐ Average Salary
 ✐ Mean salary across all employees.
