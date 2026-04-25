@@ -1,5 +1,9 @@
 # HR Interactive Dashboard using Excel
 
+## DATASET
+
+- <a href="https://github.com/jamesomorph/HR-Dashboard/blob/main/HRdatabase.xlsx">DATASET</a>
+
 # 📊 HR Database & Analytics Project
 
 ## 📌 Overview
