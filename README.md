@@ -116,15 +116,15 @@ This project contains an HR dataset and supporting analytics designed to explore
 
 ### ✅ Data Collection → Data Cleaning → Structuring → Analysis → KPI Definition → Visualization → Insights
 
-- 1. 📥 Data Collection
-- Gathered HR-related data including employee demographics, salary, performance, and organizational details.
+ 1. 📥 Data Collection
+  - Gathered HR-related data including employee demographics, salary, performance, and organizational details.
   - Stored the dataset in a structured Excel file (HRdatabase.xlsx).
-- 2. 🧹 Data Cleaning & Preparation
-- Checked for missing or inconsistent values.
-- Standardized formats (e.g., dates, text fields, salary values).
-- Created calculated fields such as:
-- Age Range
-- Derived metrics (e.g., tenure if needed)
+ 2. 🧹 Data Cleaning & Preparation
+  - Checked for missing or inconsistent values.
+  - Standardized formats (e.g., dates, text fields, salary values).
+  - Created calculated fields such as:
+  - Age Range
+  - Derived metrics (e.g., tenure if needed)
 - 3. 🏗️ Data Structuring
 - Organized data into separate sheets:
 - Data → Raw employee dataset
