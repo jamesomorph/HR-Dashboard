@@ -110,7 +110,8 @@ This project contains an HR dataset and supporting analytics designed to explore
 
   # 📊DASHBOARD
   
-  https://github.com/jamesomorph/HR-Dashboard/blob/main/Dashboard.png
+ <img width="1414" height="652" alt="Dashboard" src="https://github.com/user-attachments/assets/02187b86-d7f6-4645-a3be-dcd224083253" />
+
 
 
 
