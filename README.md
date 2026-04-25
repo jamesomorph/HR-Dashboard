@@ -9,7 +9,7 @@
 ## 📌 Overview
 
 This project contains an HR dataset and supporting analytics designed to explore employee demographics, compensation, performance, and organizational structure. It is intended for data analysis, reporting, and dashboard creation using spreadsheet tools.
-<a href="https://github.com/jamesomorph/HR-Dashboard/blob/main/Dashboard.png">VIEW DASHBOARD</a>
+! <a href="https://github.com/jamesomorph/HR-Dashboard/blob/main/Dashboard.png">VIEW DASHBOARD</a>
 
 
 ## ❓ KPI-Driven Business Questions
